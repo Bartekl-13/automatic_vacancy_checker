@@ -23,6 +23,7 @@ In your terminal you need to run the following command to install packages neces
 
 The pip command should authomatically install along with Python.
 \
+\
 Then navigate to the directory your webscrape.py file was downloaded for example:\
 \
 cd path/to/your/script/directory\
