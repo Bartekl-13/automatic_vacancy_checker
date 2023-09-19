@@ -4,7 +4,7 @@ This is a python-based application. It's functionality focuses on checking for v
 
 ### SETUP
 
-To use this app you need to download it onto your computer ( or pull from github into a local repository ). \n
+To use this app you need to download it onto your computer ( or pull from github into a local repository ).\
 Then, fill our four variables that need to be defined:
 
 1. YOUR_USERNAME, where you write your PESEL number (which is usually a username for USOS Rejestracje Żetonowe )
