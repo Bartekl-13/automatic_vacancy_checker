@@ -29,8 +29,9 @@ Then navigate to the directory your webscrape.py file was downloaded for example
 cd path/to/your/script/directory\
 \
 And run the script using the following command:\
-python webscrape.py
-\
+
+> python webscrape.py
+
 New Google Chrome window should pop up, and if everything works correctly you will be logged in and you will get a notification with a prompt telling you if you were registered, or that there is no vacancies. Now you have to wait for INTERVAL seconds to get another notification.\
 \
 If you wish to run this app for multiple different courses, just copy-paste the webscrape.py file, change it name (for ex. webscrape2.py) and inside change the URL to the URL of your another class of interest.
