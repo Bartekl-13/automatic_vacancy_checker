@@ -18,8 +18,9 @@ and choose the latest release for your device.
 
 After filling out those variables you need to open command line on your device by using shortcut WINDOWS+R and writing _cmd_ in there, or just searching it in the Windows tab.\
 In your terminal you need to run the following command to install packages necessary for the program to run:
->pip install selenium pymsgbox\
-\
+
+> pip install selenium pymsgbox
+
 Then navigate to the directory your webscrape.py file was downloaded for example:\
 \
 cd path/to/your/script/directory\
