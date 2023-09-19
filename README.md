@@ -1,10 +1,10 @@
 # Automatic registration for OGUN courses
 
-This is a python-based application. It's functionality focuses on checking for vacant spots on the University of Warsaw registration site for OGUNs.
+This is a python-based application. It's functionality focuses on checking for vacant spots on the University of Warsaw registration site for OGUNs, language courses and PE.
 
 ### SETUP
 
-To use this app you need to download it onto your computer ( or pull from github into a local repository ).
+To use this app you need to download it onto your computer ( or pull from github into a local repository ). \n
 Then, fill our four variables that need to be defined:
 
 1. YOUR_USERNAME, where you write your PESEL number (which is usually a username for USOS Rejestracje Żetonowe )
@@ -23,4 +23,4 @@ cd path/to/your/script/directory
 And run the script using the following command:
 python webscrape.py
 
-New Google Chrome window should pop up, and if everything works correctly you will be logged in and a notification will pop up saying if you were registered, or that there is no vacancies.
+New Google Chrome window should pop up, and if everything works correctly you will be logged in and a notification will pop up saying if you were registered, or that there is no vacancies. Now you have to wait for INTERVAL seconds to get another notification.
